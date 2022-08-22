@@ -18,5 +18,5 @@ A Brief example for Golang syntanx and few more, Folder wise Codes are added, yo
 - Methods
 - Modules
 - Microservices
-- 
+
 
