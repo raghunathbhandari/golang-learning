@@ -20,3 +20,17 @@ A Brief example for Golang syntanx and few more, Folder wise Codes are added, yo
 - Microservices
 
 
+
+
+## Usage/Examples
+
+```javascript
+    package main
+
+    import "fmt"
+
+    func main() {
+        fmt.Println("Hello world !")
+    }
+```
+
