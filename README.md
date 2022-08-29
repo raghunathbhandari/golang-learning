@@ -34,3 +34,22 @@ A Brief example for Golang syntanx and few more, Folder wise Codes are added, yo
     }
 ```
 
+
+# Golang Testing Sample
+
+
+```
+go test -v
+
+=== RUN   TestCalculate
+--- PASS: TestCalculate (0.00s)
+=== RUN   TestTblDataToCalculate
+--- PASS: TestTblDataToCalculate (0.00s)
+
+PASS
+ok      gotest  0.898s
+
+
+```
+
+
