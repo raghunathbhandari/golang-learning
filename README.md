@@ -17,6 +17,8 @@ A Brief example for Golang syntanx and few more, Folder wise Codes are added, yo
 - HTTP Handlers
 - Methods
 - Modules
+- Interface
+- Testing Methods
 - Microservices
 
 
