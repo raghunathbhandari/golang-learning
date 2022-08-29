@@ -54,7 +54,7 @@ ok      gotest  0.898s
 
 # Golang Interface Example (Variable Type, Slice Type, Parameter Type)
 
-```
+```javascript
 
 type Males struct {
 	rollNo     int
